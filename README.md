@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=9966CC&height=150&section=header)
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hello+there%2C+my+name+is+Laíne!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hello+World%2C+my+name+is+Laíne!" />
   </a>
 </div>
 
